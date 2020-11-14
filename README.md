@@ -1,1 +1,1 @@
-# Playground for course LF:DSIB01 Introduction to Bioinformatics 2020 taught at Masaryk University.
+Playground for course LF:DSIB01 Introduction to Bioinformatics 2020 taught at Masaryk University.
